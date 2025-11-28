@@ -3,6 +3,8 @@
 This project focuses on applying **Gradle automation concepts** in an Android context rather than developing app logic.  
 It demonstrates how to configure **Build Types, Product Flavors, Source Sets**, and how to create **custom Gradle tasks** to automate APK management and verification.
 
+link unfinished project : https://github.com/Tillia03/II.3510_2526_Skills_G1_UnfinishedProject
+
 ---
 
 ## Project Objectives
